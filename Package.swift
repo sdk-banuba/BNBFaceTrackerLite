@@ -37,7 +37,7 @@ let package = Package(
         .binaryTarget(
             name: "BNBFaceTrackerLite",
             url: "None",
-            checksum: "88243c57f075caaacde09e1a31936cb46b0acfd133ff24661a341f4d61213538"
+            checksum: "0de262cdce84476ee99ace4fe655715d06d03a12fc42a343f3a8bbc0b1e08202"
         ),
         .target(
             name: "BNBFaceTrackerLite_BNBSdkCore",
